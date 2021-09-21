@@ -24,7 +24,7 @@ export default function TextEditor() {
     const [socket,setSocket] = useState()
     const [quill,setQuill] = useState()
     useEffect(()=>{
-      const s =  io("https://google-doc-backend123.herokuapp.com/")
+      const s =  io("https://google-doc-backend123.herokuapp.com")
       setSocket(s)
 
       return () => {
