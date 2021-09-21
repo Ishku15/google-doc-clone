@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/google-doc-frontend/static/css/main.0ea8e943.chunk.css",
+    "main.js": "/google-doc-frontend/static/js/main.7c01dd56.chunk.js",
+    "main.js.map": "/google-doc-frontend/static/js/main.7c01dd56.chunk.js.map",
+    "runtime-main.js": "/google-doc-frontend/static/js/runtime-main.4ba815a5.js",
+    "runtime-main.js.map": "/google-doc-frontend/static/js/runtime-main.4ba815a5.js.map",
+    "static/css/2.59dee6c0.chunk.css": "/google-doc-frontend/static/css/2.59dee6c0.chunk.css",
+    "static/js/2.2bc5ce18.chunk.js": "/google-doc-frontend/static/js/2.2bc5ce18.chunk.js",
+    "static/js/2.2bc5ce18.chunk.js.map": "/google-doc-frontend/static/js/2.2bc5ce18.chunk.js.map",
+    "index.html": "/google-doc-frontend/index.html",
+    "static/css/2.59dee6c0.chunk.css.map": "/google-doc-frontend/static/css/2.59dee6c0.chunk.css.map",
+    "static/css/main.0ea8e943.chunk.css.map": "/google-doc-frontend/static/css/main.0ea8e943.chunk.css.map",
+    "static/js/2.2bc5ce18.chunk.js.LICENSE.txt": "/google-doc-frontend/static/js/2.2bc5ce18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ba815a5.js",
+    "static/css/2.59dee6c0.chunk.css",
+    "static/js/2.2bc5ce18.chunk.js",
+    "static/css/main.0ea8e943.chunk.css",
+    "static/js/main.7c01dd56.chunk.js"
+  ]
+}
